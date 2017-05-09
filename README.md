@@ -13,6 +13,7 @@
 - [React Components and JSX]()
 - [State and Props]()
 - [Component Lifecycle]()
+- [Styling Components]()
 - [Virtual DOM]()
 - [Reconciliation/Diffing Algorithm]()
 - [Server Side Rendering]()
