@@ -8,6 +8,16 @@
 ## Learning Resources
 *WIP*
 
+## Core Concepts
+
+- [React Components and JSX]()
+- [State and Props]()
+- [Component Lifecycle]()
+- [Virtual DOM]()
+- [Reconciliation/Diffing Algorithm]()
+- [Server Side Rendering]()
+- [React Performances]()
+
 ## Community Third Parties
 
 Catalogs
