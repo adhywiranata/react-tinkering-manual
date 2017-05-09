@@ -1,6 +1,6 @@
 # React Tinkerer Manual
 
-🚀 Newbie React Tinkerer's manual 📗 to maximize 👆 the awesomeness of React and its community 👱.
+🚀 Newbie React Tinkerer's manual 📗 of the awesomeness of React and its community 👱
 
 ## About React
 *WIP*
@@ -10,15 +10,32 @@
 
 ## Community Third Parties
 
+Catalogs
+- 🔗 https://js.coach/
+
 ### Functionality and Data
 
+#### Frameworks
+
+- 🔧 [NextJS](https://github.com/zeit/next.js/), minimalistic framework for server-rendered React applications
+
 #### Third Party Components
-- 📰 [Draft JS](https://github.com/facebook/draft-js), A React framework for building text editors
+- 🌐 [React Router](https://reacttraining.com/react-router/), components for single-page-app routing
+- 📰 [DraftJS](https://github.com/facebook/draft-js), A React framework for building text editors
 
 #### State Management
 - 📈 [Redux](https://github.com/reactjs/redux), predictable state container for JS apps
+  - [Redux Reselect](https://github.com/reactjs/reselect), selector library for Redux
+  - [Redux Saga](https://github.com/redux-saga/redux-saga), An alternative side effect model for Redux apps
+  - [Redux Form](https://github.com/erikras/redux-form), enable an html form in React to use Redux to store all of its state
 - 🔅 [MobX](https://github.com/mobxjs/mobx), simple and scalable state management
 - 〽️ [Relay](https://github.com/facebook/relay), JavaScript framework for building data-driven React apps
+
+#### Very Useful but not React-Specific Libraries
+- ⚓ [Flow](https://github.com/facebook/flow), static typing library for JavaScript
+- 🎡 [ImmutableJS](https://github.com/facebook/immutable-js), Immutable persistent data collections for Javascript
+- ✴️ [Normalizr](https://github.com/paularmstrong/normalizr), Normalizes nested JSON according to a schema
+- 📈 [GraphQL](http://graphql.org/), Query language for API
 
 ### Design
 
@@ -44,3 +61,6 @@ react UI builder with marketplace
 - 🌟 [Browserify](http://browserify.org/), node dependency bundler
 - 📥 [Webpack](https://github.com/webpack), node module bundler
 - 🐾 [Rollup](https://github.com/rollup/rollup), Next-generation ES6 module bundler
+
+#### Miscellaneous
+- 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
