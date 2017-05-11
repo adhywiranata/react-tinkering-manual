@@ -8,6 +8,11 @@
 ## Learning Resources
 *WIP*
 
+##### Server-side Rendering
+- [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
+- [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
+- [Prerender.io, React SEO Service](https://prerender.io/)
+
 ## Core Concepts
 
 - [React Components and JSX]()
