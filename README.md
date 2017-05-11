@@ -5,6 +5,18 @@
 ## About React
 *WIP*
 
+## Core Concepts
+
+- [React Components and JSX]()
+- [State and Props]()
+- [Component Lifecycle]()
+- [Styling Components]()
+- [Higher Order Components]()
+- [Virtual DOM]()
+- [Reconciliation/Diffing Algorithm]()
+- [Server Side Rendering]()
+- [React Performances]()
+
 ## Learning Resources
 *WIP*
 
@@ -12,17 +24,6 @@
 - [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
 - [Prerender.io, React SEO Service](https://prerender.io/)
-
-## Core Concepts
-
-- [React Components and JSX]()
-- [State and Props]()
-- [Component Lifecycle]()
-- [Styling Components]()
-- [Virtual DOM]()
-- [Reconciliation/Diffing Algorithm]()
-- [Server Side Rendering]()
-- [React Performances]()
 
 ## Community Third Parties
 
