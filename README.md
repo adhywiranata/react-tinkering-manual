@@ -29,6 +29,11 @@
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
 - [Prerender.io, React SEO Service](https://prerender.io/)
 
+##### Miscellaneous Super Useful Bits
+
+- [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+- [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
+
 ## Community Third Parties
 
 Catalogs
@@ -43,15 +48,20 @@ Catalogs
 
 #### Third Party Components
 - 🌐 [React Router](https://reacttraining.com/react-router/), components for single-page-app routing
-- 📰 [DraftJS](https://github.com/facebook/draft-js), A React framework for building text editors
+- 📰 [Draft.js](https://github.com/facebook/draft-js), A React framework for building text editors
 
 #### State Management
 - 📈 [Redux](https://github.com/reactjs/redux), predictable state container for JS apps
   - [Redux Reselect](https://github.com/reactjs/reselect), selector library for Redux
   - [Redux Saga](https://github.com/redux-saga/redux-saga), An alternative side effect model for Redux apps
   - [Redux Form](https://github.com/erikras/redux-form), enable an html form in React to use Redux to store all of its state
+  - [Redux Immutable](https://github.com/gajus/redux-immutable), Redux combineReducers with Immutable.js
 - 🔅 [MobX](https://github.com/mobxjs/mobx), simple and scalable state management
 - 〽️ [Relay](https://github.com/facebook/relay), JavaScript framework for building data-driven React apps
+
+#### SEO and Semantics
+
+- 👒 [React Helmet](https://github.com/nfl/react-helmet), HTML document head manager for React
 
 #### Very Useful but not React-Specific Libraries
 - ⚓ [Flow](https://github.com/facebook/flow), static typing library for JavaScript
@@ -59,6 +69,7 @@ Catalogs
 - ✴️ [Normalizr](https://github.com/paularmstrong/normalizr), Normalizes nested JSON according to a schema
 - 📈 [GraphQL](http://graphql.org/), Query language for API
 - 📐 [Falcor](https://github.com/Netflix/falcor), JavaScript library for efficient data fetching
+- 📥 [Facebook's Prepack](https://prepack.io/), A tool for making JavaScript code run faster.
 
 ### Design
 
@@ -72,6 +83,9 @@ Catalogs
 - 💅 [Styled Components](https://github.com/styled-components/styled-components), component styling library
 - ✨ [Glamor](https://github.com/threepointone/glamor), Inline CSS library
 - 💍 [aphrodite](https://github.com/Khan/aphrodite), Inline CSS library
+
+#### Texts and Fonts
+- 👓 [Font Face Observer](https://github.com/bramstein/fontfaceobserver), Web font loading library
 
 ### Utilities
 
@@ -87,3 +101,5 @@ react UI builder with marketplace
 
 #### Miscellaneous
 - 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
+- 🌐 [i18n](http://i18next.com/), internalization for React
+- 🌐 [Internalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0)
