@@ -20,6 +20,10 @@
 ## Learning Resources
 *WIP*
 
+##### Starting Out
+
+- [Pete Hunt's React How to](https://github.com/petehunt/react-howto)
+
 ##### Server-side Rendering
 - [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
@@ -32,8 +36,9 @@ Catalogs
 
 ### Functionality and Data
 
-#### Frameworks
+#### Frameworks and Boilerplates
 
+- 🎇 [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate), A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
 - 🔧 [NextJS](https://github.com/zeit/next.js/), minimalistic framework for server-rendered React applications
 
 #### Third Party Components
@@ -53,6 +58,7 @@ Catalogs
 - 🎡 [ImmutableJS](https://github.com/facebook/immutable-js), Immutable persistent data collections for Javascript
 - ✴️ [Normalizr](https://github.com/paularmstrong/normalizr), Normalizes nested JSON according to a schema
 - 📈 [GraphQL](http://graphql.org/), Query language for API
+- 📐 [Falcor](https://github.com/Netflix/falcor), JavaScript library for efficient data fetching
 
 ### Design
 
