@@ -31,6 +31,7 @@
 
 ##### Miscellaneous Super Useful Bits
 
+- [React + RxJS 💓](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a), Reactive React
 - [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 - [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 
