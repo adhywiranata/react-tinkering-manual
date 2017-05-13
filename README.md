@@ -78,6 +78,9 @@ Catalogs
 
 - 🎠 [Material UI](https://github.com/callemall/material-ui), React Components that Implement Google's Material Design
 - 🐜 [Ant Design](https://github.com/ant-design/ant-design), An enterprise-class UI design language and React-based implementation
+- 🔧 [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap), Bootstrap 3 components built with React
+- 💻 [React Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React), Semantic UI components built with React
+- 📑 [React Foundation](https://github.com/nordsoftware/react-foundation), Foundation components built with React
 
 #### Styling
 - 💄 [Glamour](https://github.com/paypal/glamorous), React component styling
