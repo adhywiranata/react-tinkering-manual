@@ -20,16 +20,16 @@
 ## Learning Resources
 *WIP*
 
-##### Starting Out
+#### Starting Out
 
 - [Pete Hunt's React How to](https://github.com/petehunt/react-howto)
 
-##### Server-side Rendering
+#### Server-side Rendering
 - [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
 - [Prerender.io, React SEO Service](https://prerender.io/)
 
-##### Miscellaneous Super Useful Bits
+#### Miscellaneous Super Useful Bits
 
 - [React + RxJS 💓](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a), Reactive React
 - [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
