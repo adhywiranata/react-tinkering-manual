@@ -35,6 +35,8 @@
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux), curated Redux resources
 - [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 - [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
+- [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 ## Community Third Parties
 
