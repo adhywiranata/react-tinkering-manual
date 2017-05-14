@@ -1,6 +1,6 @@
 # React Tinkerer Manual
 
-🚀 Newbie React Tinkerer's manual 📗 of the awesomeness of React and its community 👱
+🚀 Newbie React Tinkerer's manual 📗 of the awesomeness of React and its community 👱. Let's learn React!
 
 ## About React
 *WIP*
