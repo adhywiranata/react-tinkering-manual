@@ -87,11 +87,14 @@ Catalogs
 - 💻 [React Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React), Semantic UI components built with React
 - 📑 [React Foundation](https://github.com/nordsoftware/react-foundation), Foundation components built with React
 
-#### Styling
+#### Styling and Animations
 - 💄 [Glamour](https://github.com/paypal/glamorous), React component styling
 - 💅 [Styled Components](https://github.com/styled-components/styled-components), component styling library
 - ✨ [Glamor](https://github.com/threepointone/glamor), Inline CSS library
 - 💍 [aphrodite](https://github.com/Khan/aphrodite), Inline CSS library
+- ✨ [React Anime](https://github.com/hyperfuse/react-anime), A super easy animation library for React!
+- 🔧 [React Motion](https://github.com/chenglou/react-motion), A spring that solves your animation problems in React
+- 🐜 [React Animation](https://github.com/chenglou/react-tween-state), Animation for React
 
 #### Texts and Fonts
 - 👓 [Font Face Observer](https://github.com/bramstein/fontfaceobserver), Web font loading library
