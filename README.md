@@ -53,6 +53,7 @@ Catalogs
 #### Third Party Components
 - 🌐 [React Router](https://reacttraining.com/react-router/), components for single-page-app routing
 - 📰 [Draft.js](https://github.com/facebook/draft-js), A React framework for building text editors
+- 🌐 [Recompose](https://github.com/acdlite/recompose), utility belt for function components and higher-order components
 
 #### State Management
 - 📈 [Redux](https://github.com/reactjs/redux), predictable state container for JS apps
