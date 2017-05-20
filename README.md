@@ -75,6 +75,7 @@ Catalogs
 - 📈 [GraphQL](http://graphql.org/), Query language for API
 - 📐 [Falcor](https://github.com/Netflix/falcor), JavaScript library for efficient data fetching
 - 📥 [Facebook's Prepack](https://prepack.io/), A tool for making JavaScript code run faster.
+- 〽️ [Cerebral](https://github.com/cerebral/cerebral), A state controller with its own debugger
 
 ### Design
 
