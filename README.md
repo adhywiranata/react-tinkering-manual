@@ -99,6 +99,11 @@ Catalogs
 #### Texts and Fonts
 - 👓 [Font Face Observer](https://github.com/bramstein/fontfaceobserver), Web font loading library
 
+#### Data Visualization
+- 🔧 [D3](https://github.com/d3/d3), Data Visualization Library
+- ✨ [Victory](https://github.com/FormidableLabs/victory), A collection of composable React components for building interactive data visualizations. Build on top of D3
+- ✨ [Victory Native](https://github.com/FormidableLabs/victory-native), Victory for React Native
+
 ### Utilities
 
 #### UI Builders
