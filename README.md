@@ -121,6 +121,7 @@ react UI builder with marketplace
 - 🐾 [Rollup](https://github.com/rollup/rollup), Next-generation ES6 module bundler
 
 #### Miscellaneous
+- 👓 [Spectacle](https://github.com/FormidableLabs/spectacle), React Presentation Library
 - 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
 - 🌐 [i18n](http://i18next.com/), internalization for React
 - 🌐 [Internalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0)
