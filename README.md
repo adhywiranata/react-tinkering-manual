@@ -96,6 +96,7 @@ Catalogs
 - ✨ [React Anime](https://github.com/hyperfuse/react-anime), A super easy animation library for React!
 - 🔧 [React Motion](https://github.com/chenglou/react-motion), A spring that solves your animation problems in React
 - 🐜 [React Animation](https://github.com/chenglou/react-tween-state), Animation for React
+- ✴️ [Fabric](http://dev.office.com/fabric), React Components from Microsoft Office
 
 #### React Native Styling and Themes
 - ✨ [Shoutem UI](https://github.com/shoutem/ui), Customizable set of components for React Native applications
