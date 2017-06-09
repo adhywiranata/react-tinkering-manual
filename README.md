@@ -17,6 +17,9 @@
 - [Server Side Rendering]()
 - [React Performances]()
 
+## Related Concepts
+- [Webpack's Code Splitting and Tree Shaking to avoid monolithic bundle files]()
+
 ## Learning Resources
 *WIP*
 
@@ -122,10 +125,8 @@ react UI builder with marketplace
 - 🐾 [Rollup](https://github.com/rollup/rollup), Next-generation ES6 module bundler
 
 #### Miscellaneous
+- ✴️ [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - 👓 [Spectacle](https://github.com/FormidableLabs/spectacle), React Presentation Library
 - 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
 - 🌐 [i18n](http://i18next.com/), internalization for React
 - 🌐 [Internalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0)
-
-
-💻 💻 💻 💻 💻 💻
