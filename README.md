@@ -54,6 +54,7 @@ Catalogs
 - 🔧 [NextJS](https://github.com/zeit/next.js/), minimalistic framework for server-rendered React applications
 
 #### Third Party Components
+- 🎇 [React Modal](https://github.com/reactjs/react-modal), simple accessibly modal for React
 - 🌐 [React Router](https://reacttraining.com/react-router/), components for single-page-app routing
 - 📰 [Draft.js](https://github.com/facebook/draft-js), A React framework for building text editors
 - 🌐 [Recompose](https://github.com/acdlite/recompose), utility belt for function components and higher-order components
