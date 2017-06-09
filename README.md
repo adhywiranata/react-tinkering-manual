@@ -65,6 +65,7 @@ Catalogs
   - [Redux Saga](https://github.com/redux-saga/redux-saga), An alternative side effect model for Redux apps
   - [Redux Form](https://github.com/erikras/redux-form), enable an html form in React to use Redux to store all of its state
   - [Redux Immutable](https://github.com/gajus/redux-immutable), Redux combineReducers with Immutable.js
+  - [Redux Define](https://github.com/smeijer/redux-define), Define action constants for Redux
 - 🔅 [MobX](https://github.com/mobxjs/mobx), simple and scalable state management
 - 〽️ [Relay](https://github.com/facebook/relay), JavaScript framework for building data-driven React apps
 
