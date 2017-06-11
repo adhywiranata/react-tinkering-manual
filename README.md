@@ -40,6 +40,7 @@
 - [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 - [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [Clean Code in JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Community Third Parties
 
