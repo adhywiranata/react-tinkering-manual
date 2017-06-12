@@ -34,6 +34,7 @@
 
 #### Miscellaneous Super Useful Bits
 
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/), A compilation of React Patterns, techniques, tips and tricks
 - [React + RxJS 💓](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a), Reactive React
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux), curated Redux resources
 - [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
