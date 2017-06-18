@@ -30,6 +30,7 @@
 #### Server-side Rendering
 - [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
+- [SSR with CRA](https://medium.com/@benlu/ssr-with-create-react-app-v2-1b8b520681d9)
 - [Prerender.io, React SEO Service](https://prerender.io/)
 
 #### Miscellaneous Super Useful Bits
