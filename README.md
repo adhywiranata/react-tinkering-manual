@@ -66,6 +66,7 @@ Catalogs
 - 📈 [Redux](https://github.com/reactjs/redux), predictable state container for JS apps
   - [Redux Reselect](https://github.com/reactjs/reselect), selector library for Redux
   - [Redux Saga](https://github.com/redux-saga/redux-saga), An alternative side effect model for Redux apps
+  - [Redux Epic](https://github.com/BerkeleyTrue/redux-epic), Better async and server side rendering in React with Observables
   - [Redux Form](https://github.com/erikras/redux-form), enable an html form in React to use Redux to store all of its state
   - [Redux Immutable](https://github.com/gajus/redux-immutable), Redux combineReducers with Immutable.js
   - [Redux Define](https://github.com/smeijer/redux-define), Define action constants for Redux
