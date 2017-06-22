@@ -131,6 +131,8 @@ react UI builder with marketplace
 - 🐾 [Rollup](https://github.com/rollup/rollup), Next-generation ES6 module bundler
 
 #### Miscellaneous
+- 🌐 [React Router](https://github.com/ReactTraining/react-router), Declarative routing for React
+- 🌟 [React Router Redux](https://github.com/reactjs/react-router-redux), Ruthlessly simple bindings to keep react-router and redux in sync 
 - ✴️ [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)
 - 👓 [Spectacle](https://github.com/FormidableLabs/spectacle), React Presentation Library
 - 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
