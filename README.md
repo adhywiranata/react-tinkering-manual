@@ -1,6 +1,6 @@
 # React Tinkerer Manual
 
-🚀 Newbie React Tinkerer's manual 📗 of the awesomeness of React and its community 👱
+🚀 Newbie React Tinkerer's manual 📗 of the awesomeness of React and its community 👱. Let's learn React!
 
 ## About React
 *WIP*
@@ -17,6 +17,9 @@
 - [Server Side Rendering]()
 - [React Performances]()
 
+## Related Concepts
+- [Webpack's Code Splitting and Tree Shaking to avoid monolithic bundle files]()
+
 ## Learning Resources
 *WIP*
 
@@ -27,17 +30,20 @@
 #### Server-side Rendering
 - [Renders React App using Fetch as Google for SEO test](https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1)
 - [Should I use React Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
+- [SSR with CRA](https://medium.com/@benlu/ssr-with-create-react-app-v2-1b8b520681d9)
 - [Prerender.io, React SEO Service](https://prerender.io/)
 
 #### Miscellaneous Super Useful Bits
 
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/), A compilation of React Patterns, techniques, tips and tricks
 - [React + RxJS 💓](https://hackernoon.com/what-happens-when-you-use-rxjs-in-react-11ae5163fc0a), Reactive React
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux), curated Redux resources
 - [React Redux Offline First](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 - [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 - [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [Clean Code in JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean Code in JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Community Third Parties
 
@@ -52,15 +58,19 @@ Catalogs
 - 🔧 [NextJS](https://github.com/zeit/next.js/), minimalistic framework for server-rendered React applications
 
 #### Third Party Components
+- 🎇 [React Modal](https://github.com/reactjs/react-modal), simple accessibly modal for React
 - 🌐 [React Router](https://reacttraining.com/react-router/), components for single-page-app routing
 - 📰 [Draft.js](https://github.com/facebook/draft-js), A React framework for building text editors
+- 🌐 [Recompose](https://github.com/acdlite/recompose), utility belt for function components and higher-order components
 
 #### State Management
 - 📈 [Redux](https://github.com/reactjs/redux), predictable state container for JS apps
   - [Redux Reselect](https://github.com/reactjs/reselect), selector library for Redux
   - [Redux Saga](https://github.com/redux-saga/redux-saga), An alternative side effect model for Redux apps
+  - [Redux Epic](https://github.com/BerkeleyTrue/redux-epic), Better async and server side rendering in React with Observables
   - [Redux Form](https://github.com/erikras/redux-form), enable an html form in React to use Redux to store all of its state
   - [Redux Immutable](https://github.com/gajus/redux-immutable), Redux combineReducers with Immutable.js
+  - [Redux Define](https://github.com/smeijer/redux-define), Define action constants for Redux
 - 🔅 [MobX](https://github.com/mobxjs/mobx), simple and scalable state management
 - 〽️ [Relay](https://github.com/facebook/relay), JavaScript framework for building data-driven React apps
 
@@ -75,6 +85,7 @@ Catalogs
 - 📈 [GraphQL](http://graphql.org/), Query language for API
 - 📐 [Falcor](https://github.com/Netflix/falcor), JavaScript library for efficient data fetching
 - 📥 [Facebook's Prepack](https://prepack.io/), A tool for making JavaScript code run faster.
+- 〽️ [Cerebral](https://github.com/cerebral/cerebral), A state controller with its own debugger
 
 ### Design
 
@@ -86,15 +97,28 @@ Catalogs
 - 💻 [React Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React), Semantic UI components built with React
 - 📑 [React Foundation](https://github.com/nordsoftware/react-foundation), Foundation components built with React
 
-#### Styling
+#### Styling and Animations
 - 💄 [Glamour](https://github.com/paypal/glamorous), React component styling
 - 💅 [Styled Components](https://github.com/styled-components/styled-components), component styling library
 - ✨ [Glamor](https://github.com/threepointone/glamor), Inline CSS library
 - 💍 [aphrodite](https://github.com/Khan/aphrodite), Inline CSS library
+- 🔧 [Radium](https://github.com/FormidableLabs/radium), A toolchain for React component styling
 - ✨ [TypeStyle](https://github.com/typestyle/typestyle), TypeScript for Styling
+- ✨ [React Anime](https://github.com/hyperfuse/react-anime), A super easy animation library for React!
+- 🔧 [React Motion](https://github.com/chenglou/react-motion), A spring that solves your animation problems in React
+- 🐜 [React Animation](https://github.com/chenglou/react-tween-state), Animation for React
+- ✴️ [Fabric](http://dev.office.com/fabric), React Components from Microsoft Office
+
+#### React Native Styling and Themes
+- ✨ [Shoutem UI](https://github.com/shoutem/ui), Customizable set of components for React Native applications
 
 #### Texts and Fonts
 - 👓 [Font Face Observer](https://github.com/bramstein/fontfaceobserver), Web font loading library
+
+#### Data Visualization
+- 🔧 [D3](https://github.com/d3/d3), Data Visualization Library
+- ✨ [Victory](https://github.com/FormidableLabs/victory), A collection of composable React components for building interactive data visualizations. Build on top of D3
+- ✨ [Victory Native](https://github.com/FormidableLabs/victory-native), Victory for React Native
 
 ### Utilities
 
@@ -109,6 +133,10 @@ react UI builder with marketplace
 - 🐾 [Rollup](https://github.com/rollup/rollup), Next-generation ES6 module bundler
 
 #### Miscellaneous
+- 🌐 [React Router](https://github.com/ReactTraining/react-router), Declarative routing for React
+- 🌟 [React Router Redux](https://github.com/reactjs/react-router-redux), Ruthlessly simple bindings to keep react-router and redux in sync
+- ✴️ [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)
+- 👓 [Spectacle](https://github.com/FormidableLabs/spectacle), React Presentation Library
 - 💻 [Subdivide](https://github.com/philholden/subdivide), Split pane layout system for React
 - 🌐 [i18n](http://i18next.com/), internalization for React
 - 🌐 [Internalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0)
