@@ -37,6 +37,7 @@
 - [React Progressive Web Apps](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 - [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ## Community Third Parties
 
@@ -90,6 +91,7 @@ Catalogs
 - 💅 [Styled Components](https://github.com/styled-components/styled-components), component styling library
 - ✨ [Glamor](https://github.com/threepointone/glamor), Inline CSS library
 - 💍 [aphrodite](https://github.com/Khan/aphrodite), Inline CSS library
+- ✨ [TypeStyle](https://github.com/typestyle/typestyle), TypeScript for Styling
 
 #### Texts and Fonts
 - 👓 [Font Face Observer](https://github.com/bramstein/fontfaceobserver), Web font loading library
